@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Tim Clancy <clancyt@seas.upenn.edu>"]
 
 [dependencies]
+kiss3d = "0.9"
+nalgebra = "0.12"
